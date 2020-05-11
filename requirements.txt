@@ -26,7 +26,9 @@ cython
 geos
 proj
 six
--e git://github.com/SciTools/cartopy.git
+git+git://github.com/SciTools/cartopy.git
+Cartopy==0.17.0
+
 
 
 eo-learn==0.7.2
