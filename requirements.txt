@@ -25,7 +25,9 @@ sentinelhub==3.0.0
 cython
 geos
 proj
--e git+https://github.com/SciTools/cartopy.git
+six
+-e git://github.com/SciTools/cartopy.git
+
 
 eo-learn==0.7.2
 eo-learn-core==0.7.2
