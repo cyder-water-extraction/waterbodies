@@ -1,1 +1,2 @@
 graphviz
+gdal-bin==3.0.2
