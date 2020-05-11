@@ -26,8 +26,6 @@ cython
 geos
 proj
 six
-git+git://github.com/SciTools/cartopy.git
-Cartopy==0.17.0
 
 
 
