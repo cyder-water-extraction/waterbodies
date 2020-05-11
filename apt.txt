@@ -1,2 +1,3 @@
 graphviz
 gdal-bin
+libgdal-dev
