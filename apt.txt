@@ -5,3 +5,6 @@ libproj-dev
 proj-data
 proj-bin
 libgeos-dev
+python-cartopy
+python3.6-dev
+python-gdal
