@@ -25,7 +25,7 @@ sentinelhub==3.0.0
 cython
 geos
 proj
-Cartopy==0.17.0
+Cartopy
 
 eo-learn==0.7.2
 eo-learn-core==0.7.2
