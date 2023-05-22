@@ -1,5 +1,5 @@
 wheel
-requests==2.22.0
+requests==2.31.0
 Click==7.0
 numpy
 tifffile==2020.2.16
